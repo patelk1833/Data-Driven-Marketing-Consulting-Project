@@ -39,14 +39,7 @@ The Data-Driven Marketing Consulting Project successfully addressed the challeng
 
 ## Repository Files
 This repository contains the following files:
-- **Dr. Laura Ferrer and Associates Marketing Strategy.pdf**: A detailed report documenting the analysis, proposed strategies, and actionable recommendations for improving the firm's marketing approach.
-- **Dr. Laura Ferrer and Associates.pdf**: A presentation summarizing project findings, insights, and recommendations.
-
-
-
-
-
-
-
-
-
+- **[Dr. Laura Ferrer and Associates Marketing Strategy.pdf](https://github.com/patelk1833/Data-Driven-Marketing-Consulting-Project/blob/main/Dr_Laura_Ferrer_and_Associates_Marketing_Stratergy.pdf)**:  
+  A detailed report documenting the analysis, proposed strategies, and actionable recommendations for improving the firm's marketing approach.
+- **[Dr. Laura Ferrer and Associates.pdf](https://github.com/patelk1833/Data-Driven-Marketing-Consulting-Project/blob/main/Marketing_Project_Presentation.pdf)**:  
+  A presentation summarizing project findings, insights, and recommendations.
